@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "minimist": "^1.2.8",
+    "rps": "^1.0.0",
     "rpsls": "^0.9.0"
   },
   "type": "module"
