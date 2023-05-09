@@ -1,5 +1,5 @@
 import express from 'express';
-import { rps, rpsls } from './lib/lib/rpsls.js';
+import { rps, rpsls } from './lib/a03-jmsabrwnng/lib/rpsls.js';
 
 const app = express();
 const port = process.argv[2] || 5000;
